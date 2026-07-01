@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0001/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 護身命經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2865.xml
+    old_id: T85n2865
+hash: sha256:282644be72492b3727f2f137bcb31c71bbdba3f6c721e817b9de95fdc56169d6
