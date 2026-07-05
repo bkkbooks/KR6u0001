@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0001_000.yaml, hash: 'sha256:282644be72492b3727f2f137bcb31c71bbdba3f6c721e817b9de95fdc56169d6'}
-  - {seq: 1, filename: KR6u0001_001.yaml, hash: 'sha256:c9b47a88a418109aa1db8c3699e2bc98cb06648f2e3f7ed39f13c9d3fd836e32'}
+  - {seq: 1, filename: KR6u0001_001.yaml, hash: 'sha256:9ef1699d3117a910fa9120e6e4509b656ffd3fbc83165b68123ceb784d00211b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0001_001.markers.yaml, hash: 'sha256:fdaacf04b98c3fd65e42aabaa65cd45cdd3c7fb0ccdc8675a6c9508a7b05bc8d'}
+  - {seq: 0, role: markers, filename: assets/KR6u0001_000.markers.yaml, hash: 'sha256:00f74078af9b71c44055172c9696573757dce657e0f9d8b87bac7faf7ed33cfe'}
+  - {seq: 1, role: markers, filename: assets/KR6u0001_001.markers.yaml, hash: 'sha256:ea781843e20014b6da4e0b5973c214059cdfd11f565e108ba12598e04bba1b78'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說護身命經一卷
   type: juan
   level: 1
-hash: sha256:62a1e4ae06142744996d6af35f8e7cd3a26358fb794aff6bc03ade11bd4192ce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b4586fee77a0e029474b3d8ab9f37e0ba911f8388824eb63dcc8cc9b3b70a275
