@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0001/v1
 canonical_location: https://kanripo.org/bkk/KR6u0001/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 護身命經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0001_000.yaml, hash: 'sha256:282644be72492b3727f2f137bcb31c71bbdba3f6c721e817b9de95fdc56169d6'}
-  - {seq: 1, filename: KR6u0001_001.yaml, hash: 'sha256:9ef1699d3117a910fa9120e6e4509b656ffd3fbc83165b68123ceb784d00211b'}
+  - {seq: 1, filename: KR6u0001_001.yaml, hash: 'sha256:fca621edf860dc47270ad0db92d6cc8182ba974d61100bf09c58f9e9c6dfaf3f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0001_000.markers.yaml, hash: 'sha256:00f74078af9b71c44055172c9696573757dce657e0f9d8b87bac7faf7ed33cfe'}
-  - {seq: 1, role: markers, filename: assets/KR6u0001_001.markers.yaml, hash: 'sha256:ea781843e20014b6da4e0b5973c214059cdfd11f565e108ba12598e04bba1b78'}
+  - {seq: 1, role: markers, filename: assets/KR6u0001_001.markers.yaml, hash: 'sha256:4aa2f6fb345d08e21ff34f1e3c8f0c407ef01fc2d0e9d91a733bfec618ba27c7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說護身命經一卷
   type: juan
   level: 1
-hash: sha256:b4586fee77a0e029474b3d8ab9f37e0ba911f8388824eb63dcc8cc9b3b70a275
+hash: sha256:b01bc6bc01aa00d259d7b10b24b1f81d742bf63cfbff29e418033fad12fe3ecf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
